@@ -17,13 +17,7 @@ color_scheme: dark
 
 mermaid:
   version: "10.9.1"
-
-
-
-
-just_the_docs:
-  collapse_navigation: false
-
+  
 # Included sublevels in Table of Contents
 toc:
   min_level: 1
