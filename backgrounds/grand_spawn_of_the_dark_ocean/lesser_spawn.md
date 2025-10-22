@@ -11,6 +11,7 @@ A Lesser Spawn is a person who ate a worm from the Dark Ocean and become the low
 ## Retainer Rules
 * Retainers move on your initiative
 * They don't attack on their own, they can choose to deal damage to a creature that you've damaged that turn if that creature is within range
+* Deal set damage
 
 
 ## Stats
@@ -30,7 +31,7 @@ A Lesser Spawn is a person who ate a worm from the Dark Ocean and become the low
 ## Actions 
 
 ### Crab Attack
-* 1d10 + 3 Slashing
+* 8 Slashing
 
 ### Crab Meat Shield
 If an ally within 5ft of the Lesser Spawn is attacked, you can choose to have your Lesser Spawn take the attack. You must make this choice before the dice is rolled. 

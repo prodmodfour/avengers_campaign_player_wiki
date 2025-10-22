@@ -23,6 +23,6 @@ You seek to make amends for the evils your empire committed. In order to atone, 
 * Skeleton Traits
 * The Chalic of Sanity Effect
 * Radiant Power
-* An ancient artifact
+
 
 See the pages below for more information. 
