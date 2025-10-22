@@ -6,31 +6,48 @@ nav_order: 1
 
 # Elemental Blessing
 
-Dependeing on the element you chose, you will gain a different elemental blessing. 
+Depending on the elemental you were adopted by, you gain a unique blessing drawn from its power.
+
+---
 
 ## Earth
 ### Stoneskin
-* +1 AC
+* Your skin takes on the durability of stone.  
+  **Benefit:** +1 AC
 
 ### Grounded
-* Resistant to Lightning
+* Your connection to the earth protects you from electrical forces.  
+  **Benefit:** You gain resistance to Lightning damage.
+
+---
 
 ## Fire
 ### Quickstarter
-* +1 Initiative
+* Your elemental spark sharpens your reflexes.  
+  **Benefit:** +1 Initiative
 
 ### Burnproof
-* Resistant to Fire
+* Flames no longer hold sway over you.  
+  **Benefit:** You gain resistance to Fire damage.
+
+---
 
 ## Water
-### Accepted by the waves
-* Gain a swim speed of 60 ft
-* Gain the ability to breathe underwater.
+### Accepted by the Waves
+* The sea recognizes you as one of its own.  
+  **Benefits:**
+  * Gain a swim speed of 60 ft.
+  * You can breathe underwater.
 
 ### Permanent Fluidity
-* Resistant to Cold
+* Your body adapts to cold environments with ease.  
+  **Benefit:** You gain resistance to Cold damage.
+
+---
 
 ## Air
 ### Freedom of the Skies
-* Gain a flight speed of 30ft
-* If you already have a flight speed, improve it by 10ft
+* The wind itself lifts and carries you.  
+  **Benefits:**
+  * Gain a flight speed of 30 ft.
+  * If you already have a flight speed, increase it by 10 ft.

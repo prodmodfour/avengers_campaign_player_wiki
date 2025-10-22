@@ -6,20 +6,19 @@ nav_order: 7
 
 # Basic Info
 
-You are THE flaming fist. Hero of Baldur's Gate. You are second in command to Commander Zodge. Your soldiers worship you and the criminals of Baldur's Gate fear you.
+You are **The Flaming Fist** — hero of Baldur’s Gate, second-in-command to Commander Zodge. Your soldiers revere you, and the criminals of the city whisper your name in fear.
 
-You have been sent by Commander Zodge to bring an end to the followers of Loki
+Commander Zodge has tasked you with a critical mission: to root out and destroy the followers of Loki.
 
 # Basic Choices
 
 ## Your Story
-* Create the story of how you became known as "THE flaming fist"
-* Create a story of your close bond with Shagrat
+* Tell the tale of how you earned the title **“The Flaming Fist.”**  
+* Describe the bond you share with your trusted ally, **Shagrat.**
 
-# You get:
-* Soldiers
-* Weekly suppy drops
-* A stat boosting magical item
+# You Gain
+* Loyal soldiers under your command  
+* Weekly supply drops  
+* A magical item that boosts your stats  
 
-
-See the pages below for more information. 
+See the pages below for more information.

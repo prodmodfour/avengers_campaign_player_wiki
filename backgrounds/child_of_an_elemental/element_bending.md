@@ -4,20 +4,31 @@ parent: Child of an Elemental
 nav_order: 2
 ---
 
-# How does bending work?
 
-You get a number of "bending" points based on your character level. These points can be used to cast spells from the Wizard, Sorcerer and Ranger spell lists.
+# Elemental Bending
 
-Each spell costs bending points equal to the level of the spell you cast. The max level of spell that you can cast is determined by your character level. 
+## How Bending Works
 
-You can cast spells that would be possible to achieve by bending the element that you chose. For example, a child of a fire elemental could use 3 bending points to cast Fireball.
+As a Child of an Elemental, you gain a number of **Bending Points** determined by your character level. These points allow you to shape and manipulate your chosen element to perform extraordinary feats — represented mechanically as spells.
+
+You may spend Bending Points to cast spells from the **Wizard**, **Sorcerer**, or **Ranger** spell lists.  
+Each spell costs a number of Bending Points equal to the spell’s level.
+
+The **maximum spell level** you can cast also depends on your character level (see the table below).
+
+You can only cast spells that could reasonably be accomplished through control of your chosen element. For example, a **Child of a Fire Elemental** could spend 3 Bending Points to cast *Fireball*.
+
+---
 
 ## Creative Bending
-You can be creative when considering "What is possible by bending your chosen element". At the DM's discretion, you can even modify the spell to make it fit better. 
 
-For example, a water bender could cast Hold Person by bending the water within the targets blood. In this case, we'd modify the spell to use a CON Save instead of a WIS Save.
+You are encouraged to think creatively about how your elemental powers manifest. At your DM’s discretion, you may modify existing spells to better suit your element.
 
-# Bending Points and Max Spell Level Table
+For instance, a **Water Bender** might emulate *Hold Person* by manipulating the water within a target’s body — in which case, the DM might change the saving throw from **Wisdom** to **Constitution**.
+
+---
+
+## Bending Points and Maximum Spell Level
 
 | Level | Bending Points | Max Spell Level |
 |:------|:----------------|:----------------|
@@ -42,5 +53,8 @@ For example, a water bender could cast Hold Person by bending the water within t
 | 19    | 25              | 9               |
 | 20    | 26              | 9               |
 
+---
+
 ## Restoration
-Bending points come back fully upon a short rest.
+
+You regain all expended Bending Points when you complete a **short rest**.

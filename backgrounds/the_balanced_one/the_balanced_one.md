@@ -4,59 +4,79 @@ parent: Backgrounds
 nav_order: 6
 ---
 
+
 # Basic Info
 
-## What is "The Balanced One"?
-You are a werewolf. But you're not like other werewolves. You're The Balanced One.
+## What is *The Balanced One*?
 
-Most werewolves fall into two categories:
-* Beings of Chaos
-* Beings of Order
+You are a werewolf — but unlike any other. You are *The Balanced One*.
 
-When a person is turned into a werewolf, they become either one of the two based on whether their soul is more chaotic or ordered.
+Most werewolves fall into one of two categories:
+- **Beings of Chaos**
+- **Beings of Order**
 
-Both types are incompatible with civil society. They are incapable of thought that is outside of their nature. 
+When a person is transformed into a werewolf, the curse molds itself to the nature of their soul. Those with a disciplined mind become creatures of Order. Those with a wild heart become creatures of Chaos.
 
-You contain within you both natures. Your mind has the capacity for chaos and order. Most beings have one thought at a time. You have two parallel thoughts at any given moment. The Chaotic Thought and the Ordered Thought. You can choose to act on either.
+Both are powerful, yet both are flawed. Their thoughts are bound to their nature — incapable of balance or moderation.
 
-You are the only one of your kind that you know. Other werewolves view you with reverence and fear. 
+You are different. You embody both natures in harmony. Within you reside two minds: one ordered, one chaotic. They exist in constant dialogue, sometimes in conflict, yet always together.  
+At any given moment, you can choose which voice to follow — the Chaotic Thought or the Ordered Thought.
 
-## Order vs Chaos
-When in either hybrid or wolf form, chaos wolves are black whereas order wolves are white.
+You have never met another like yourself. Among werewolves, you are an anomaly — revered by some, feared by most.
 
-Your fur is black in some parts and white in others. The percentage of white vs black fur is determined by how chaotic or ordered your soul is. 
+---
 
-You have a number of Chaos Points.
-You have a number of Order Points.
-They both add up to 5. 
+## Order vs. Chaos
 
-Whenever you make a decision that is strongly in line with your chaotic self, you gain a Chaos point and lose an Order point. 
+When in hybrid or wolf form:
+- **Chaos-aligned werewolves** have black fur.
+- **Order-aligned werewolves** have white fur.
 
-Whenever you make a decision that is strongly in line with your ordered self, you gain an Order point and lose a Chaos point. 
+Your fur bears both colors — a living reflection of your inner balance. The ratio of black to white changes as your soul shifts between order and chaos.
 
-Whenever you make a choice that is in between the two, your balance remains the same. 
+You track this with **Chaos Points** and **Order Points**, which always total **5**.
+
+- When you act according to your chaotic nature, **gain 1 Chaos Point** and **lose 1 Order Point**.  
+- When you act according to your ordered nature, **gain 1 Order Point** and **lose 1 Chaos Point**.  
+- When you make a choice between the two, your balance remains unchanged.
+
+---
 
 ## Loss of Control
-If you lose control of your character due to a mental effect, or experience a mental condition such as frightened or charmed, you must make a DC 15 Wisdom Saving Throw.
 
-If you fail, you partially lose control of your character and your most dominant side (order or chaos) takes over. Every minute, you may make another saving throw. You may still make decisions, but they must strongly be in line with your most dominant side.
+When your mind is compromised — whether by fear, charm, madness, or other mental effects — you risk losing balance.
 
-If you lose control and you have not shifted, you immediately shift into hybrid form.
+You must succeed on a **DC 15 Wisdom Saving Throw**.  
+On a failure, your dominant nature (Order or Chaos) seizes control.
 
+While under this influence:
+- You may still act, but your choices must align with your dominant nature.  
+- You can repeat the saving throw once per minute to regain control.  
+- If you have not yet transformed, you immediately shift into **hybrid form** upon losing control.
 
-## How does one become a werewolf?
-If a creature is dealt damage by either a werewolf's claw or bite attacks, they contract the lycanthropy disease. 
+---
 
-After 4d8 days, the creature makes a DC 12 Con saving throw. If they fail, they become a werewolf. 
+## Becoming a Werewolf
+
+A creature that takes damage from a werewolf’s **claw** or **bite** may contract the curse of lycanthropy.
+
+After **4d8 days**, the creature makes a **DC 12 Constitution Saving Throw**.  
+On a failure, they succumb to the transformation and become a werewolf.
+
+---
 
 # Basic Choices
+
 ## Your Story
 
-* Create a story about how you were turned into a werewolf
-* Decide your policy on turning others into werewolves
+- Describe how you were first turned into a werewolf.  
+- Decide your stance on spreading the curse — do you embrace it, or restrain it?
 
-# You get:
-* The ability to change forms
-* Order and Chaos powers
+---
 
-See the pages below for more information
+# You Gain
+
+- The ability to change forms  
+- Access to both **Order** and **Chaos** powers  
+
+See the following pages for details on your abilities.

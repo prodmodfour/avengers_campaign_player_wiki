@@ -5,21 +5,25 @@ nav_order: 2
 ---
 
 # Soldiers
-* You can command up to 5 Flaming Fist Soldiers at a time
-* You can get more Soldiers from the base.
 
+* You command up to **5 Flaming Fist Soldiers** at a time.  
+* Additional soldiers can be requisitioned from the base as needed.
 
-# Flaming Fist Soldier 
-A Flaming Fist Soldier is a Minion.
-It takes its turn on the same initiative as its leader
+---
+
+# Flaming Fist Soldier
+
+A **Flaming Fist Soldier** serves as your loyal **minion**, fighting under your command. It acts on the same initiative count as its leader.
 
 ## Stats
-* AC 14
-* HP 10
-* Speed 30 ft
+* **AC:** 14  
+* **HP:** 10  
+* **Speed:** 30 ft.  
 
-# Group Attack
-* Sword +6 3 Slashing
+## Actions
 
-# Support
-* Non-minion allies gain a +1 bonus to attack rolls against creatures adjacent to the Flaming Fist Soldier.
+**Group Attack.** *Melee Weapon Attack:* +6 to hit, one target. *Hit:* 3 slashing damage.
+
+## Support
+
+Allied (non-minion) creatures gain a **+1 bonus to attack rolls** against enemies adjacent to a Flaming Fist Soldier.

@@ -6,16 +6,22 @@ nav_order: 1
 
 # Magical Item
 
-Pick from one of the following magical items:
+Choose **one** of the following magical items. Each item enhances one of your  ability scores.
+
 ### Gauntlets of Ogre Power
-* Sets STR to 19
-### Earings of Cat's Grace
-* Sets DEX to 19
+* Your **Strength** score becomes **19**.
+
+### Earrings of Cat’s Grace
+* Your **Dexterity** score becomes **19**.
+
 ### Amulet of Health
-* Sets CON to 19
+* Your **Constitution** score becomes **19**.
+
 ### Headband of Intellect
-* Sets INT to 19
+* Your **Intelligence** score becomes **19**.
+
 ### Socks of Wisdom
-* Sets WIS to 19
+* Your **Wisdom** score becomes **19**.
+
 ### Cape of Charisma
-* Sets CHA to 19
+* Your **Charisma** score becomes **19**.

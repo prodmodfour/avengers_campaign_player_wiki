@@ -4,35 +4,42 @@ parent: The Balanced One
 nav_order: 3
 ---
 
-# Shifting
-You may shift into either hybrid or wolf form as a bonus action.
-You gain advantage on intimidation checks during the turn that you shift from human form to either hybrid or wolf form.
+# Forms
 
-# Stat Increase
-These stat increases apply while you are in either hybrid of wolf form.
-* +2 STR
-* +5 DEX
-* +2 CON
+## Shifting
+You can shift into either your **Hybrid Form** or **Wolf Form** as a **bonus action**.  
+When you shift from your human form into either of these forms, you gain **advantage on Intimidation checks** for the duration of that turn.
+
+## Stat Increases
+While in **Hybrid** or **Wolf Form**, you gain the following bonuses:
+- **+2 Strength**
+- **+5 Dexterity**
+- **+2 Constitution**
+
+---
 
 # Hybrid Form
 
 ## Natural Weapons
-* Claw 1d6 + STR (finessable)
-* Bite 1d10 + STR (finesseable)
+- **Claws:** 1d6 + STR modifier (finesse)  
+- **Bite:** 1d10 + STR modifier (finesse)
 
 ## Ferocity
-* If you hands are free, you may make two claw attacks as a bonus action.
-* If your mouth is free, you may make a bite attack as a bonus action. 
+- If your hands are free, you can make **two claw attacks** as a **bonus action**.  
+- If your mouth is free, you can make **one bite attack** as a **bonus action**.
 
 ## Speed
-* 40 ft or your base speed, whichever is higher
+Your movement speed becomes **40 ft**, or your base speed—**whichever is higher**.
+
+---
 
 # Wolf Form
+
 ## Natural Weapons
-* Bite 1d10 + STR (finessable)
+- **Bite:** 1d10 + STR modifier (finesse)
 
 ## Pack Tactics
-* If you are flanking an enemy, you and your flanking allies gain advantage on attack rolls against that enemy.
+When you are **flanking** an enemy, you and your flanking allies gain **advantage on attack rolls** against that enemy.
 
 ## Speed
-* 50 ft or your base speed, whichever is higher
+Your movement speed becomes **50 ft**, or your base speed—**whichever is higher**.

@@ -5,17 +5,16 @@ nav_order: 3
 ---
 
 # Radiant Power
-You gain the following radiant powers
+
+You gain access to the following radiant abilities.
 
 ## Radiant Strikes
-* You add 1d8 Radiant damage to all your melee attacks
+- Your melee attacks deal an additional **1d8 radiant damage**.
 
 ## Radiant Cannon
-* You have a resource called Radiance
-* You can have a maxium of 6 Radiance.
-* Whenever you deal damage with Radiant Strikes, you gain 1 Radiance.
-* You can spend 6 Radiance as a Free Action to attack a creature within 120 ft with Radiant Cannon
-* Radiant Cannon uses your spell attack modifier (If you don't have one, use your ranged attack modifier).
-* Radiant Cannon deals 6d8 Radiant Damage
-* If a minute passes without you gaining any more Radiance, lose all Radiance.
-
+- You gain a resource called **Radiance**, with a **maximum of 6**.
+- Whenever you deal damage with **Radiant Strikes**, you gain **1 Radiance**.
+- You can expend **6 Radiance** as a **Free Action** to unleash a **Radiant Cannon** attack against a creature within **120 feet**.
+- The attack uses your **spell attack modifier** (or your **ranged attack modifier** if you don’t have one).
+- **Radiant Cannon** deals **6d8 radiant damage**.
+- If **one minute** passes without you gaining any Radiance, you lose all accumulated Radiance.

@@ -6,19 +6,22 @@ nav_order: 3
 
 # Basic Info
 
-A few years ago, you heard the sound of the ocean call to you. You followed it and found yourself wandering an endless stretch of grey sand. After what felt like centuries to you, you arrived at an ocean of darkness. You found a worm, a wriggling mass of black tendrils. You ate it without thinking. 
+Years ago, you heard the ocean calling your name — a voice deep and patient, older than the tides themselves. You followed it across an endless shore of gray sand, walking for what felt like centuries. At last, you reached the Dark Ocean — a vast sea of shadow that swallowed all light.
 
-After eating it, you returned to the mortal plane. Time had not passed in this world, even though you experienced centuries in the realm of the dark ocean. 
+There, you found a creature: a worm made of writhing black tendrils. Without hesitation, you devoured it.
 
-Over the course of the next few days, your body morphed slowly and painfully into its new, crablike form. Your mind changed and gained knowledge that you had no way of knowing.
+When you awoke, you were back in the mortal realm. No time had passed, though your mind is now that of an ancient.
 
-You learn that there are other similar to you. Other crab people. But they are lesser spawn. You are the Grand Spawn of the Dark Ocean. The prophet sent to free the universe from the cosmic forces that seek to enslave it. 
+Over the next few days, your body began to twist and harden, reshaping itself into a crablike form. Your mind expanded, flooded with knowledge you could not have learned by mortal means.
 
-With your psychic powers, you learn that there is one other like you. Another Grand Spawn, Melorias. Your new crab instincts tell you to destroy him, to eat him and take his place as the leader of the Dark Oceanspawn. He is weak, and only you can save the universe. 
+You soon discovered that others like you exist — lesser spawn, fragments of the same deep power. But you are not like them. You are the **Grand Spawn of the Dark Ocean**, the chosen prophet destined to liberate the cosmos from the unseen forces that bind it.
 
-# You get:
-* Crab Mutations
-* Psychic Powers
-* A Lesser Spawn (crab friend)
+Through your newly awakened psychic senses, you perceive another Grand Spawn — **Melorias**. Your instincts whisper that only one can rule the Dark Ocean’s children. To save the universe, you must find him, devour him, and claim his power.
 
-See the pages below for more information.
+# You Gain:
+
+* **Crab Mutations**
+* **Psychic Powers**
+* **A Lesser Spawn** (your loyal crab companion)
+
+See the following pages for more details.

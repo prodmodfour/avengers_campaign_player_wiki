@@ -1,21 +1,22 @@
 ---
-title: Tyr Spells
-parent: Chosen Blade of Tyr
+title: Tyr’s Spells
+parent: Champion of Tyr
 nav_order: 2
 ---
 
-# Tyr Spells
+# Tyr’s Spells
 
-As the chosen blade of Tyr, you add the following spells to your spell list.
-In addition to being able to cast these spells normally, you may cast each of them once per day. This special pool of Tyr spells is restored upon a long rest. 
+As the chosen blade of Tyr, you gain access to the following divine spells.  
+In addition to casting them normally, you may cast each of these spells once per day without expending a spell slot.  
+This special pool of Tyr’s spells is replenished after a long rest.
 
-* Detect Evil and Good 
-* Guiding Bolt 
-* Zone of Truth 
-* Hold Person 
-* Dispel Magic 
-* Sanctuary 
-* Beacon of Hope
-* Banishment 
-* Flame Strike 
-* Commune 
+* Detect Evil and Good  
+* Guiding Bolt  
+* Zone of Truth  
+* Hold Person  
+* Dispel Magic  
+* Sanctuary  
+* Beacon of Hope  
+* Banishment  
+* Flame Strike  
+* Commune

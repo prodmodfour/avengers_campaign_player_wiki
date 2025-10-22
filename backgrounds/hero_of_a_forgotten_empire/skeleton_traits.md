@@ -7,19 +7,22 @@ nav_order: 1
 # Skeleton Traits
 
 ## Not So Squishy
-Gain 2 HP per Hit Dice
+You gain **2 additional hit points per Hit Die**.
 
 ## Brittle
-Take +5 damage whenever you take bludgeoning damage
+You take **+5 damage** whenever you suffer **bludgeoning damage**.
 
 ## Freedom of Bones
-Gain +2 Dex Score (Not modifier)
+Your **Dexterity score increases by 2** (not the modifier).
 
 ## A Second Chance
-You now have the Undead type in addition to your other types.
+You gain the **Undead** creature type in addition to your other types.
 
-## Good Riddance to all the earthly remains
-Condition immunities gained: Poisoned, Disease, Exhaustion
+## Good Riddance to All the Earthly Remains
+You gain the following **condition immunities**:  
+- Poisoned  
+- Disease  
+- Exhaustion  
 
 ## DM Note
 I'm ruling that no healing works on undead unless is explicitly states that it does. No healing word. 
