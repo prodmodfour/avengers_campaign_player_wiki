@@ -38,7 +38,7 @@ You track this with **Chaos Points** and **Order Points**, which always total **
 
 - When you act according to your chaotic nature, **gain 1 Chaos Point** and **lose 1 Order Point**.  
 - When you act according to your ordered nature, **gain 1 Order Point** and **lose 1 Chaos Point**.  
-- When you make a choice between the two, your balance remains unchanged.
+- When you make a neutral choice, your balance remains unchanged.
 
 ---
 
