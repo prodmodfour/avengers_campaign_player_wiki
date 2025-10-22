@@ -21,7 +21,7 @@ You seek to make amends for the evils your empire committed. In order to atone, 
 
 # You get:
 * Skeleton Traits
-* The Chalic of Sanity Effect
+* The Chalice of Sanity Effect
 * Radiant Power
 
 

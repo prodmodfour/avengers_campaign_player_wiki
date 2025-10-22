@@ -6,7 +6,7 @@ nav_order: 2
 
 # Psychic Power
 
-Through your connection to the Dark Ocean, you gain several psychic powers. These powers are unlimited use.
+Through your connection to the Dark Ocean, you gain several psychic powers. These powers have unlimited uses.
 
 ## Go Home
 You can teleport to and from the Dark Ocean. 

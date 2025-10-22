@@ -9,28 +9,28 @@ nav_order: 1
 Dependeing on the element you chose, you will gain a different elemental blessing. 
 
 ## Earth
-### **Stoneskin**
+### Stoneskin
 * +1 AC
 
-### **Grounded**
+### Grounded
 * Resistant to Lightning
 
 ## Fire
-### **Quickstarter**
+### Quickstarter
 * +1 Initiative
 
-### **Burnproof**
+### Burnproof
 * Resistant to Fire
 
 ## Water
-### **Accepted by the waves**
+### Accepted by the waves
 * Gain a swim speed of 60 ft
 * Gain the ability to breathe underwater.
 
-### **Permanent Fluidity**:
+### Permanent Fluidity
 * Resistant to Cold
 
 ## Air
-### **Freedom of the Skies**:
+### Freedom of the Skies
 * Gain a flight speed of 30ft
 * If you already have a flight speed, improve it by 10ft

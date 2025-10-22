@@ -19,12 +19,12 @@ Both types are incompatible with civil society. They are incapable of thought th
 
 You contain within you both natures. Your mind has the capacity for chaos and order. Most beings have one thought at a time. You have two parallel thoughts at any given moment. The Chaotic Thought and the Ordered Thought. You can choose to act on either.
 
-You are the only one of your kind that you know. Other werewolves view you with reverance and fear. 
+You are the only one of your kind that you know. Other werewolves view you with reverence and fear. 
 
 ## Order vs Chaos
 When in either hybrid or wolf form, chaos wolves are black whereas order wolves are white.
 
-Your fur is black in some parts and white in others. The percentage of white vs black fur is determined by the how chaotic or ordered your soul is. 
+Your fur is black in some parts and white in others. The percentage of white vs black fur is determined by how chaotic or ordered your soul is. 
 
 You have a number of Chaos Points.
 You have a number of Order Points.
@@ -32,7 +32,7 @@ They both add up to 5.
 
 Whenever you make a decision that is strongly in line with your chaotic self, you gain a Chaos point and lose an Order point. 
 
-Whenever you make a decision that is strongly in line with your ordered self, you gain an Order point and lose an Chaos point. 
+Whenever you make a decision that is strongly in line with your ordered self, you gain an Order point and lose a Chaos point. 
 
 Whenever you make a choice that is in between the two, your balance remains the same. 
 

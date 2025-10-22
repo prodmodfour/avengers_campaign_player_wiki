@@ -17,4 +17,5 @@ You gain the following radiant powers
 * You can spend 6 Radiance as a Free Action to attack a creature within 120 ft with Radiant Cannon
 * Radiant Cannon uses your spell attack modifier (If you don't have one, use your ranged attack modifier).
 * Radiant Cannon deals 6d8 Radiant Damage
+* If a minute passes without you gaining any more Radiance, lose all Radiance.
 

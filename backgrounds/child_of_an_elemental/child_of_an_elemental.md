@@ -32,7 +32,7 @@ This choice determines the type of the elemental that adopted you
 
 ## Cosmetic Effect
 Choose a cosmetic effect on your character that matches your chosen element.
-For example, if you are the child of a fire elemental, you could fire on your head instead of hair. 
+For example, if you are the child of a fire elemental, you could have fire on your head instead of hair. 
 
 # You get:
 * Elemental Blessings

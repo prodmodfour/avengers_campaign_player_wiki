@@ -10,7 +10,7 @@ nav_order: 2
 * +10 Movement Speed
 ## 2 Points
 ### Discordant Growl
-* As a bonus action, reduce the next saving throw that an enemy within 60 ft that can hear you makes by 1d4.
+* As a bonus action, choose one creature within 60 feet of you that can hear you. The next saving throw that creature makes before the start of your next turn is reduced by 1d4.
 ## 3 Points
 ### Lone Wolf
 * At the start of each round, add 1d4 to your initiative score. 
