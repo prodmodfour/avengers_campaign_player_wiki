@@ -1,0 +1,27 @@
+<script>
+(function () {
+  function expandAll() {
+    // Try the current JTD expander buttons
+    var btns = document.querySelectorAll('.nav-list-expander');
+    if (btns.length) {
+      btns.forEach(function (btn) {
+        if (btn.getAttribute('aria-expanded') !== 'true') btn.click();
+      });
+      return;
+    }
+    // Fallback for variations (older/newer DOMs)
+    document.querySelectorAll('nav .nav-list-item').forEach(function (li) {
+      var child = li.querySelector(':scope > .nav-list');
+      if (child) child.style.display = 'block';
+    });
+  }
+
+  // Run after JTD’s own JS
+  window.addEventListener('load', function () {
+    // Run once right away…
+    expandAll();
+    // …then again shortly after in case JTD reflows/collapses late.
+    setTimeout(expandAll, 150);
+  });
+})();
+</script>
