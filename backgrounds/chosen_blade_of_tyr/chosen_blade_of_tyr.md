@@ -24,3 +24,8 @@ As a servant of Tyr, you've taken the following oaths:
 * Decide how you brought justice to those followers.
 * Describe how Tyr appeared before you, upon seeing your bravery and righteousness, in order to enlist you as his champion. 
 
+# You get:
+* Tyr Spells
+* The ability to turn into the Avatar of Tyr
+
+See the pages below for more information.
