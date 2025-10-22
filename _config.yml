@@ -1,0 +1,31 @@
+title: Documentation
+description: A set of documents describing the implementation of carbon monitoring in the Ada Platform.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-toc
+
+search_enabled: true
+color_scheme: dark
+
+mermaid:
+  version: "10.9.1"
+
+url: "https://prodmodfour.github.io"
+baseurl: "/Ada_Carbon_Monitoring_Implementation_Documentation"
+
+just_the_docs:
+  # Enables automatic "Previous"/"Next" page links at the bottom
+  show_page_navigation: true
+
+# Included sublevels in Table of Contents
+toc:
+  min_level: 1
+  max_level: 3
