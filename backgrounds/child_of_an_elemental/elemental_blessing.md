@@ -10,13 +10,15 @@ Dependeing on the element you chose, you will gain a different elemental blessin
 
 ## Earth
 ### **Stoneskin**
-* + 1 AC
+* +1 AC
+
 ### **Grounded**
 * Resistant to Lightning
 
 ## Fire
 ### **Quickstarter**
-* + 1 Initiative
+* +1 Initiative
+
 ### **Burnproof**
 * Resistant to Fire
 
@@ -24,6 +26,7 @@ Dependeing on the element you chose, you will gain a different elemental blessin
 ### **Accepted by the waves**
 * Gain a swim speed of 60 ft
 * Gain the ability to breathe underwater.
+
 ### **Permanent Fluidity**:
 * Resistant to Cold
 
