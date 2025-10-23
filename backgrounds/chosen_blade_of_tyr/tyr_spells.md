@@ -6,7 +6,7 @@ nav_order: 2
 
 # Tyr’s Spells
 
-As the chosen blade of Tyr, you gain access to the following divine spells.  
+As the chosen blade of Tyr, you gain access to the following divine spells. They are counted as always prepared. 
 In addition to casting them normally, you may cast each of these spells once per day without expending a spell slot.  
 This special pool of Tyr’s spells is replenished after a long rest.
 

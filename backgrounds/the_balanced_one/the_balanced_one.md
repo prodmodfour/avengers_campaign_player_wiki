@@ -46,6 +46,7 @@ You track this with **Chaos Points** and **Order Points**, which always total **
 
 When your mind is compromised — whether by fear, charm, madness, or other mental effects — you risk losing balance.
 
+
 You must succeed on a **DC 15 Wisdom Saving Throw**.  
 On a failure, your dominant nature (Order or Chaos) seizes control.
 
@@ -53,6 +54,8 @@ While under this influence:
 - You may still act, but your choices must align with your dominant nature.  
 - You can repeat the saving throw once per minute to regain control.  
 - If you have not yet transformed, you immediately shift into **hybrid form** upon losing control.
+
+For the purposes of this effect, Rage does not count as a loss of control.
 
 ---
 
