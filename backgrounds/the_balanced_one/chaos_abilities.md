@@ -30,5 +30,5 @@ Passive
 ## 5 Points
 ### Harbinger of Chaos
 Reaction
-*  you can force one creature within **60 feet** that you can see to **randomize the target(s)** of their attack, spell, or ability.  
+* You can force one creature within **60 feet** that you can see to **randomize the target(s)** of their attack, spell, or ability.  
 * The affected creature does **not** make a saving throw.
