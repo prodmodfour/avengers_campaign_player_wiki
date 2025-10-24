@@ -27,7 +27,7 @@ While in **Hybrid** or **Wolf Form**, you gain the following bonuses:
 ## Ferocity
 - If both of your hands are free, you can make **two claw attacks** as a **bonus action**.
 - If your mouth is free, you can make **one bite attack** as a **bonus action**.
-- If one of your hands are free, you can make **two claw attacks** as a **bonus action**.
+- If one of your hands are free, you can make **one claw attack** as a **bonus action**.
 
 ## Speed
 Your movement speed becomes **40 ft**, or your base speed—**whichever is higher**.
