@@ -18,6 +18,7 @@ The **maximum spell level** you can cast also depends on your character level (s
 
 You can only cast spells that could reasonably be accomplished through control of your chosen element. For example, a **Child of a Fire Elemental** could spend 3 Bending Points to cast *Fireball*.
 
+Cantrips cost 0 points.
 ---
 
 ## Creative Bending
