@@ -16,8 +16,10 @@ While in **Hybrid** or **Wolf Form**, you gain the following bonuses:
 - **+5 Dexterity**
 - **+2 Constitution**
 
+## Keen Nose
+You gain advantage on checks involving your sense of smell.
 ---
-
+.
 # Hybrid Form
 
 ## Natural Weapons
