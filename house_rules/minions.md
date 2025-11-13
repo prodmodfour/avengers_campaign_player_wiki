@@ -9,9 +9,9 @@ nav_exclude: false
 # Minion Rules
 ## Interaction with minions
 * Minions have no HP. They die when they take any damage. You don't roll damage against them.
-* Minions have no AC. You don't need to roll to hit them.
-* Attacking a minion is a free action.
-* Minions go last in initiative.
+* Minions have no AC. You don't roll to hit them. You declare an attack as normal, but you simply assume that you hit. 
+* Whenever you kill a minion with an attack, you may make another attack on a minion as a free action on the same turn. 
+* Unless states otherwise; All minions on the same side share a single initiative count, and they act after all non-minions.
 * Minions automatically fail saving throws.
 
 ## Minion Attacks
@@ -21,5 +21,5 @@ nav_exclude: false
 ## Group Attacks
 * A group of minions can attack as a single action.
 * The group rolls a single attack roll.
-* If the attack hits, each minion in the group deals its to the target. 
+* If the attack hits, each minion in the group deals its damage to the target. 
 
