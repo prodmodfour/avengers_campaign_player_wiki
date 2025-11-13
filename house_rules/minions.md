@@ -7,7 +7,7 @@ nav_exclude: false
 ---
 
 # Minion Rules
-## Interaction with minions
+## Interacting with minions
 * Minions have no HP. They die when they take any damage. You don't roll damage against them.
 * Minions have no AC. You don't roll to hit them. You declare an attack as normal, but you simply assume that you hit. 
 * Whenever you kill a minion with an attack, you may make another attack on a minion as a free action on the same turn. 
