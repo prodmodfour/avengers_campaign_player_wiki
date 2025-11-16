@@ -13,6 +13,7 @@ Here’s an expanded version with more generic adventuring gear added:
 - If he doesn't have what you need, he can often order it for you, but it may take time.
 
 ## Example Items Available
+
 | Name                    | Description                                                                                   |
 |-------------------------|-----------------------------------------------------------------------------------------------|
 | Rations (1 day)         | A day's worth of food and water for one person.                                               |
