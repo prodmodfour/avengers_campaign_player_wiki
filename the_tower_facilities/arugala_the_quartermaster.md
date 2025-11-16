@@ -7,7 +7,6 @@ nav_order: 3
 
 Here’s an expanded version with more generic adventuring gear added:
 
-```markdown
 # Arugala the Quartermaster
 - Through Arugula, you can request various supplies and equipment for your adventures.
 - Arugula may or may not have what you need in stock, depending on availability.
@@ -65,6 +64,6 @@ Here’s an expanded version with more generic adventuring gear added:
 | Hourglass               | Measures roughly an hour; useful for timing spells, watches, or wagers.                     |
 | Journal                 | A bound book for recording notes, sketches, and tales of your travels.                      |
 | Playing Cards / Dice    | Simple games of chance for passing time or gambling at taverns.                             |
-```
+
 
 
