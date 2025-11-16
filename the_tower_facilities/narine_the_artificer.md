@@ -42,7 +42,7 @@ nav_order: 2
 | Cast-Off           | The armour can be doffed as a single action instead of the usual time.                                                                                                                                                                                  | 1                     |
 | Etherealness       | While wearing the armour, you can use an action to gain the effects of the *etherealness* spell for up to 10 minutes, once per dawn.                                                                                                                    | 16                    |
 | Mariner            | While worn, you gain a swimming speed equal to your walking speed; if you start your turn underwater at 0 HP, you rise 60 ft toward the surface.                                                                                                        | 1                     |
-| Resistance         | While worn, you gain resistance to one chosen damage type per enchantment; multiple enchantments can stack for multiple types and can cancel vulnerability to that damage.                                                                              | 5                     |
+| Resistance         | While worn, you gain resistance to one chosen damage type                                                            | 5                     |
 
 # Shield Enchantments
 - Each shield can only have one enchantment at a time; applying a new enchantment replaces the old one without refunding stock points.
