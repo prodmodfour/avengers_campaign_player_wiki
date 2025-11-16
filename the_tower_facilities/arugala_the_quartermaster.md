@@ -5,8 +5,6 @@ parent: Tower Facilities
 nav_order: 3
 ---
 
-Here’s an expanded version with more generic adventuring gear added:
-
 # Arugala the Quartermaster
 - Through Arugula, you can request various supplies and equipment for your adventures.
 - Arugula may or may not have what you need in stock, depending on availability.
@@ -48,13 +46,8 @@ Here’s an expanded version with more generic adventuring gear added:
 | Parchment (10 sheets)   | Blank sheets for maps, contracts, or recordings of discoveries.                              |
 | Map & Compass           | Basic navigational tools to help avoid getting hopelessly lost.                             |
 | Healer's Kit            | Bandages, poultices, and basic remedies; stabilizes wounds and prevents infection.          |
-| Potion of Healing       | A small vial of red liquid that quickly mends minor wounds.                                  |
 | Thieves' Tools          | Picks, wires, and small tools for opening locks and disabling simple traps.                 |
 | Manacles                | Metal restraints for prisoners or hostile creatures.                                         |
-| Signal Whistle          | Emits a piercing sound to alert allies or frighten wildlife.                                 |
-| Hunting Trap            | A small mechanical trap for catching animals or slowing enemies.                             |
-| Spyglass                | Collapsible lens to see distant objects more clearly.                                        |
-| Fishing Kit             | Line, hooks, and small lures for catching fish in streams and lakes.                         |
 | Soap                    | A bar of soap used for cleaning gear, clothes, and occasionally adventurers.                |
 | Sewing Kit              | Needles, thread, and small patches for mending clothes and light armour.                    |
 | Perfumed Oil            | Scented oil to mask odours, impress nobility, or cover the stench of a dungeon.             |
@@ -62,9 +55,5 @@ Here’s an expanded version with more generic adventuring gear added:
 | Cloak, Hooded           | A weather-resistant cloak that helps keep off rain and offers some concealment.             |
 | Belt Pouch              | A small pouch for coins, potions, or other valuables you want at hand.                      |
 | Sack, Large             | Simple burlap sack for hauling bulky, heavy, or dirty items.                                |
-| Hourglass               | Measures roughly an hour; useful for timing spells, watches, or wagers.                     |
-| Journal                 | A bound book for recording notes, sketches, and tales of your travels.                      |
-| Playing Cards / Dice    | Simple games of chance for passing time or gambling at taverns.                             |
-
 
 
