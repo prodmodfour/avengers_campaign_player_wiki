@@ -7,8 +7,8 @@ nav_order: 1
 
 # Dave the Apothecary
 
-- Total Stock Points per week: 20  
-- Spent this week: 0  
+- Total Stock Points added per month: 20  
+- Current Stock Points: 20
 
 | Name                          | Description                                                                                   | Stock Points Required |
 |-------------------------------|-----------------------------------------------------------------------------------------------|-----------------------|
