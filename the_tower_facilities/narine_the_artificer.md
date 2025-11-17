@@ -7,7 +7,11 @@ nav_order: 2
 
 # Narine the Artificer
 - Stock Points added per month: 5
-- Current Stock Points: 5
+- Current Stock Points: 1
+
+# Past Purchases
+- Total Stock Points Spent: 4
+- 2 x Sentinel (Total 4 Points)
 
 # Weapon Enchantments
 - Each weapon can only have one enchantment at a time; applying a new enchantment replaces the old one without refunding stock points.

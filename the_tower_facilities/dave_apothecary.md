@@ -8,7 +8,12 @@ nav_order: 1
 # Dave the Apothecary
 
 - Stock Points added per month: 15
-- Current Stock Points: 15
+- Current Stock Points: 1
+
+# Past Purchases
+- Total Stock Points Spent: 14
+- 1 x Potion of Maximum Power (Total 4 Points)
+- 5 x Potion of Greater Healing (Total 10 Points)
 
 | Name                          | Description                                                                                   | Stock Points Required |
 |-------------------------------|-----------------------------------------------------------------------------------------------|-----------------------|
