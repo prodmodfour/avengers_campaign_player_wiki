@@ -18,7 +18,3 @@ color_scheme: dark
 mermaid:
   version: "10.9.1"
   
-# Included sublevels in Table of Contents
-toc:
-  min_level: 1
-  max_level: 3
