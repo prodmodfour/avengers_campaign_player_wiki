@@ -4,27 +4,27 @@ parent: Elemental Bending
 nav_order: 1
 ---
 
-| Level | Spell Name               | BP Cost | Flavor                                                                                           |
-|-------|---------------------------|---------|---------------------------------------------------------------------------------------------------|
-| 1     | Catapult                 | 1       | You condense a pocket of high-pressure air behind an object and release it, launching it like a bullet. |
-| 1     | Feather Fall             | 1       | You create a sudden updraft to slow the descent of yourself or falling allies.                   |
-| 1     | Fog Cloud                | 1       | You churn the air violently against the ground, kicking up a thick sphere of dust and debris (rather than water vapor). |
-| 1     | Jump                     | 1       | You create a burst of compressed air under your feet to propel you upward.                       |
-| 1     | Longstrider              | 1       | You manipulate currents to reduce wind resistance, allowing a target to move faster.             |
-| 1     | Shield                   | 1       | You reflexively compress the air around you into a solid, glass-like barrier to deflect an attack. |
-| 1     | Thunderwave              | 1       | You create a wave of concussive air pressure that knocks enemies back and deals damage.          |
-| 1     | Zephyr Strike            | 1       | You wrap yourself in swirling winds, increasing your speed and preventing enemies from hitting you. |
-| 2     | Blur                     | 2       | You vibrate the air around you, creating heat shimmers and density changes that make you hard to hit. |
-| 2     | Dust Devil               | 2       | You create a localized whirlwind that batters enemies and kicks up blinding debris.              |
-| 2     | Gust of Wind             | 2       | A classic technique; you create a sustained, powerful blast of wind in a line.                   |
-| 2     | Hold Person              | 2       | You increase the atmospheric pressure immensely around a target, pinning them to the ground.     |
-| 2     | Knock                    | 2       | You create a sharp, focused point of high pressure inside a lock to force the mechanism open.    |
-| 2     | Levitate                 | 2       | You manipulate the air pressure under a creature or object to hold it aloft.                     |
-| 2     | Skywrite                 | 2       | You shape existing clouds or manipulate smoke with precise currents to form words in the sky.    |
-| 2     | Warding Wind             | 2       | Strong wind swirls around you, deflecting projectiles (arrows) and making movement difficult for enemies. |
-| 3     | Fly                      | 3       | You command the air to physically carry you, allowing for true, sustained flight.                |
-| 3     | Haste                    | 3       | You create a perfect aerodynamic tunnel around a target and use tailwinds to double their speed. |
-| 3     | Protection from Energy   | 3       | You create a cycling shield of air that disperses heat (Fire) or insulates against temperature (Cold). |
-| 3     | Wind Wall                | 3       | You create a vertical wall of screaming, high-velocity wind that deflects arrows and blocks passage. |
-| 4     | Freedom of Movement      | 4       | You create a layer of pressurized, slick air over your skin, making it impossible to be grappled. |
-| 4     | Otiluke’s Resilient Sphere | 4     | You create a sphere of air compressed so tightly it becomes as hard as diamond, trapping a creature. |
+| Level | Spell Name                 | BP Cost | Flavor                                                                                                                                                                                                               |
+| ----- | -------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Catapult                   | 1       | You seize an unattended object in a sudden pressure sling, hurling it in a straight line until it slams into the first creature or solid surface with bone-cracking force.                                           |
+| 1     | Feather Fall               | 1       | With a sharp gesture, you whip the air beneath falling creatures into a cushioning drag, slowing their descent to a gentle drift.                                                                                    |
+| 1     | Fog Cloud                  | 1       | You churn the air with fine dust and vapor into a dense, 20-foot-radius cloud that heavily obscures sight and clings to the area until the wind scatters it.                                                         |
+| 1     | Jump                       | 1       | You reshape the air around a creature’s legs into perfectly angled thrust, tripling the distance of their jumps without granting any extra flight or lift beyond the leap itself.                                    |
+| 1     | Longstrider                | 1       | You wrap a creature in subtle tailwinds and low drag, increasing its walking speed for an hour without needing to maintain concentration.                                                                            |
+| 1     | Shield                     | 1       | You snap the air into a momentary, invisible pane of hardened pressure, warping incoming blows and even deflecting pure force like magic missiles.                                                                   |
+| 1     | Thunderwave                | 1       | You release a cubic pulse of overpressurized air from your body, blasting nearby creatures with a thunderous shockwave that damages them and hurls them backward.                                                    |
+| 1     | Zephyr Strike              | 1       | You call a hunting gale to your side, letting you move without provoking opportunity attacks and, at the perfect moment, channeling the wind into one empowered, advantage-granted strike.                           |
+| 2     | Blur                       | 2       | You make the air around you ripple and shimmer with heat-like distortion, causing your outline to blur so attackers see multiple shifted images and strike with difficulty.                                          |
+| 2     | Dust Devil                 | 2       | You twist the air into a small, mobile whirlwind of grit and debris that lightly obscures its surroundings, batters creatures it touches, and yanks those who fail to brace themselves toward its center.            |
+| 2     | Gust of Wind               | 2       | You conjure a roaring, 60-foot-long, 10-foot-wide stream of wind that drives creatures back, makes movement against it a slog, and scatters gas, mist, and small flames in its path.                                 |
+| 2     | Hold Person                | 2       | You lock the air around a humanoid into a crushing stillness, seizing their muscles so they stand paralyzed and helpless unless they can shake off the pressure with their will.                                     |
+| 2     | Knock                      | 2       | You focus a sharp spike of pressure into a lock or latch, popping the mechanism open with a resounding bang that echoes through the area.                                                                            |
+| 2     | Levitate                   | 2       | You gather air beneath a creature or object into a steady column of lift, letting it rise and descend vertically at your command while it hangs weightless in place.                                                 |
+| 2     | Skywrite                   | 2       | You coax winds and clouds into obedient currents, dragging vapor or smoke into sky-high letters that slowly drift but remain legible for miles.                                                                      |
+| 2     | Warding Wind               | 2       | You surround yourself with a howling 10-foot-radius cyclone that muffles sound, hampers nearby movement, extinguishes small flames, and batters incoming missiles off course.                                        |
+| 3     | Fly                        | 3       | You command the air to cradle a creature in constant lift and thrust, granting them swift, controlled flight that fails abruptly if your focus breaks.                                                               |
+| 3     | Haste                      | 3       | You sheath a creature in a perfectly flowing air stream that doubles their speed, sharpens their reflexes, and grants an extra burst of action—followed by a brief, windless lethargy when the magic ends.           |
+| 3     | Protection from Energy     | 3       | You weave a rotating buffer of pressured air around a creature, dispersing searing flames, crackling lightning, biting cold, corrosive vapors, or concussive thunder into harmless eddies.                           |
+| 3     | Wind Wall                  | 3       | You raise a tall, roaring wall of compressed wind that slams into creatures who try to cross it, deflects arrows and smaller missiles, and shreds gas, fog, and loose vapors that try to pass through.               |
+| 4     | Freedom of Movement        | 4       | You coat a creature in a thin sheath of responsive air that negates difficult terrain, lets them slip free of mundane restraints and grapples, and lets them glide through water as easily as air.                   |
+| 4     | Otiluke’s Resilient Sphere | 4       | You crush the air into an invisible, perfectly rigid sphere around a creature or object, sealing it off from all physical harm and effects while leaving it weightless, bouncing, and unable to touch or be touched. |
